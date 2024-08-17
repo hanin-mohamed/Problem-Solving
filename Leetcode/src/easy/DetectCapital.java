@@ -11,7 +11,7 @@ public class DetectCapital {
         }
         if (small==word.length() ||cap==word.length()||
                 (small==word.length()-1&&isCap))return true;
-         return false;
+        return false;
     }
 
     public static void main(String args[]){
