@@ -1,0 +1,3 @@
+F:/My Journy/Master/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir
+F:/My Journy/Master/Codeforces/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/My Journy/Master/Codeforces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
