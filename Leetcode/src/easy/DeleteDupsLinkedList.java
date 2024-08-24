@@ -25,7 +25,6 @@ public class DeleteDupsLinkedList {
         DeleteDupsLinkedList solution = new DeleteDupsLinkedList();
         ListNode result = solution.deleteDuplicates(head);
 
-        // طباعة القائمة المرتبطة بعد إزالة العناصر المكررة
         while (result != null) {
             System.out.print(result.val + " ");
             result = result.next;
