@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/My Journy/Master/Codeforces/cmake-build-debug",
-		"source" : "F:/My Journy/Master/Codeforces"
+		"build" : "F:/My Journy/REPOs/PS/Codeforces/cmake-build-debug",
+		"source" : "F:/My Journy/REPOs/PS/Codeforces"
 	},
 	"version" : 
 	{
