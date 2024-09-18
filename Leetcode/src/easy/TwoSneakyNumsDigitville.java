@@ -18,7 +18,7 @@ public class TwoSneakyNumsDigitville {
         }
         return sneaky;
     }
-    //Anthor Solution
+    //Anther Solution
     public int[] getSneakyNumbers2(int[] nums) {
         int cnt = 0;
         int[] sneaky = new int[2];
