@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "f:/My Journy/REPOs/PS/Codeforces/cmake-build-debug"
+			"value" : "f:/Learning/REPOs/PS/Codeforces/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/My Journy/REPOs/PS/Codeforces/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "F:/Learning/REPOs/PS/Codeforces/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "F:/My Journy/REPOs/PS/Codeforces"
+			"value" : "F:/Learning/REPOs/PS/Codeforces"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/My Journy/REPOs/PS/Codeforces/cmake-build-debug"
+			"value" : "F:/Learning/REPOs/PS/Codeforces/cmake-build-debug"
 		},
 		{
 			"name" : "Codeforces_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/My Journy/REPOs/PS/Codeforces"
+			"value" : "F:/Learning/REPOs/PS/Codeforces"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

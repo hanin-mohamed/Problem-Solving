@@ -1,3 +1,8 @@
 # ninja log v5
 6	1303	7445189650061574	CMakeFiles/Codeforces.dir/main.cpp.obj	d76fb0d042878797
 1304	1377	7445189650781731	Codeforces.exe	bd14e84329907e14
+25	5722	7520924338800681	CMakeFiles/Codeforces.dir/ManhattanCircle.cpp.obj	e550e2136800409
+14	5726	7520924338850702	CMakeFiles/Codeforces.dir/main.cpp.obj	fafd8d36613ff3c1
+33	5973	7520924341337689	CMakeFiles/Codeforces.dir/test.cpp.obj	bba3ea697003f149
+29	333	7520925906718343	CMakeFiles/Codeforces.dir/test.cpp.obj	bba3ea697003f149
+17	5404	7520925957423289	CMakeFiles/Codeforces.dir/main.cpp.obj	fafd8d36613ff3c1

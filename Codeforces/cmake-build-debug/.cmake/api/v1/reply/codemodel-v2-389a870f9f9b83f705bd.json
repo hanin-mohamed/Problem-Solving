@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Codeforces::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Codeforces-Debug-5b6dcddf576e18fdb624.json",
+					"jsonFile" : "target-Codeforces-Debug-cb4fe6633e3c71f08b7f.json",
 					"name" : "Codeforces",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/My Journy/REPOs/PS/Codeforces/cmake-build-debug",
-		"source" : "F:/My Journy/REPOs/PS/Codeforces"
+		"build" : "F:/Learning/REPOs/PS/Codeforces/cmake-build-debug",
+		"source" : "F:/Learning/REPOs/PS/Codeforces"
 	},
 	"version" : 
 	{
