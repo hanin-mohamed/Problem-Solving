@@ -1,4 +1,4 @@
-package Medium;
+package meduim;
 
 import java.util.*;
 
