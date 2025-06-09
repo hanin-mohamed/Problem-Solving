@@ -1,8 +1,6 @@
 package hard;
 
 
-import java.util.Arrays;
-
 import static java.lang.Math.max;
 
 /*
